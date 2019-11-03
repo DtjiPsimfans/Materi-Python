@@ -17,3 +17,7 @@ b.remove(2)
 print(a)  # [1, 2, 3]
 print(b)  # [1, 3, 4]
 print(a == b)  # False
+
+# Berikut adalah cara membalikkan list
+a.reverse()
+print(a)  # [3, 2, 1]
