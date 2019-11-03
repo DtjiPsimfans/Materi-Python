@@ -1,0 +1,7 @@
+Berikut adalah cara untuk print sesuatu di Python.
+
+print("Halo")  # Halo
+a: int = 5
+print(a)  # 5
+b: str = "bhee"
+print(b)  # bhee
